@@ -52,7 +52,7 @@ ollama list
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/AmbedkarGPT-Intern-Task.git
+git clone https://github.com/Devarajan-s/AmbedkarGPT-Intern-Task.git
 cd AmbedkarGPT-Intern-Task
 ```
 
